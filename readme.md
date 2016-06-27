@@ -1,8 +1,8 @@
 ## Chris Coates | coates.c@hotmail.com
 
-Formally a teacher. After five years educating young people in IT & Computing I am excited to be searching for a junior developer job with new challenges and opportunities. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
+Formerly an IT & Computing teacher, I recently decided to make a break from the norm, expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my grit and determination has paid off. Being introduced to new languages, frameworks and development methodologies, I now live sleep and breathe code and am passionate about using my skills to produce amazing products.
 
-I am looking to start my new career in an environment with a forward thinking company focused on software craftsmanship. A company where I can continue to accelerate these new and creative skills.
+I am looking to start my "Adventure of a lifetime" with a headlining company with the same level of passion for their products as mud covered festival gathers watching Coldplay in a Somerset field. Finding a place with a company that shares the same drive for well crafted software that I do along with Agile practices would be (to quote another number one hit!) my idea of paradise.
 
 ## Code Examples
 | Project                 | Description             | Technologies            |
@@ -11,18 +11,18 @@ I am looking to start my new career in an environment with a forward thinking co
 | [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL, Cloudinary API, Slack webhooks, Getty API              |
 | [Instagram Clone](https://github.com/chriscoates/instagram-challenge) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
 
-
 ## Skills
 
 #### Passionate Learner
 
+- Demonstrating a commitment to learning by spending 16 weeks fully immersed in software development I have pair programmed for 8 hours a day with 22 people from 4 continents. Weekends have been filled with individual projects and a vigorous code review on Monday morning.
 - Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created in a team of four in twelve days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
-- Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
 - Curious nature with a passion to embrace and learn new technologies in order to deliver user-friendly solutions which provide great experiences for the end user.
 
 #### Clear Communicator
 
 - As a teacher, it was essential to articulate ideas and complex concepts clearly to students. I have carried this skill over into my coding life where feedback from my team and pair partners have noted my ability to talk through what I have done/doing and about to do.
+- Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
 - Can articulate difficult concepts and can work well individually and as part of a team in order bring people onboard with purpose and vision.
 
 ## Education
