@@ -7,7 +7,7 @@ I am looking to start my new career in an environment with a focus on software c
 ## Code Examples
 | Project        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
-| <a href="https://github.com/chriscoates/phlash" target="_blank">Phlash</a>| Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest
+| [Phlash](https://github.com/chriscoates/phlash) | Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest
 Approved but Apple for Beta testing |
 | [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack webhooks.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL               |
 | [Instagram Clone](https://github.com/chriscoates/instagram-challenge) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
