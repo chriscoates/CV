@@ -2,7 +2,7 @@
 
 Formally a teacher. After five years educating young people in IT & Computing I am excited to be searching for a junior developer job with new challenges and opportunities. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
 
-I am looking to start my new career in an environment with a focus on software craftsmanship. One where I can continue to accelerate these new and creative skills.
+I am looking to start my new career in an environment with a forward thinking company focused on software craftsmanship. A company where I can continue to accelerate these new and creative skills.
 
 ## Code Examples
 | Project                 | Description             | Technologies            |
