@@ -27,7 +27,7 @@ I am looking to start my new career in an environment with a forward thinking co
 
 ## Education
 
-#### Makers Academy (March 2016 - June 2016)
+#### Makers Academy (April 2016 to June 2016)
 
 - Europe's leading web development bootcamp
 - Fostered independent learning and problem-solving
@@ -37,7 +37,7 @@ I am looking to start my new career in an environment with a forward thinking co
 - Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Node.js, Angular.js
 - Testing: RSpec, Capybara, Jasmine, Karma, Protractor
 
-#### University of Brighton (September 2007 – June 2010)
+#### University of Brighton (September 2007 to June 2010)
 
 - BA (Honours) with QTS (First Class)
 - IT & Computing with QTS
