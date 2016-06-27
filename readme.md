@@ -1,8 +1,8 @@
 ## Chris Coates | coates.c@hotmail.com
 
-Formally a teacher. After five years educating young people in IT & Computing, I needed a new challenge. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
+Formally a teacher. After five years educating young people in IT & Computing I am excited to be searching for a junior developer job wit new challenges and opportunities. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
 
-I am looking to start my new career in an environment with a focus on software craftsmanship and where I can continue to accelerate these new and creative skills.
+I am looking to start my new career in an environment with a focus on software craftsmanship. One where I can continue to accelerate these new and creative skills.
 
 ## Code Examples
 | Project                 | Description             | Technologies            |
@@ -39,7 +39,7 @@ I am looking to start my new career in an environment with a focus on software c
 
 #### University of Brighton (September 2007 – June 2010)
 
-- BA (Hons) with QTS (First Class)
+- BA (Honours) with QTS (First Class)
 - IT & Computing with QTS
 - FDSC in Computing in first year (Computer Games Development)
 - Awarded a scholarship in second year
