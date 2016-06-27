@@ -1,15 +1,16 @@
 ## Chris Coates | coates.c@hotmail.com
 
-Formally a teacher. After six years educating young people in IT & Computing, I needed a new challenge. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
+Formally a teacher. After five years educating young people in IT & Computing, I needed a new challenge. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
 
-I am looking to start my new career in an environment with a focus on software craftsmanship and where I can continue to accelerate new skills.
+I am looking to start my new career in an environment with a focus on software craftsmanship and where I can continue to accelerate these new and creative skills.
 
 ## Code Examples
-| Project Name        | Description         | Technologies        |
+| Project        | Description         | Technologies        |
 |-------------------------|-------------------------|-------------------------|
-| [Phlash](https://github.com/chriscoates/phlash)| Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest |
-| [Memeories](https://github.com/chriscoates/memeories)               | An app for creating Memes integrated with Slack webhooks   | Ruby, Sinatra, Javascript, jQuery, Rspec, Capybara, PostgreSQL               |
-| [Instagram Clone](https://github.com/chriscoates/instagram-challenge) | A web 'clone' of instagram                                                        | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL                    |
+| <a href="https://github.com/chriscoates/phlash" target="_blank">Phlash</a>| Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest
+Approved but Apple for Beta testing |
+| [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack webhooks.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL               |
+| [Instagram Clone](https://github.com/chriscoates/instagram-challenge) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
 
 
 ## Skills
@@ -47,7 +48,7 @@ I am looking to start my new career in an environment with a focus on software c
 
 - Youth work training, Manchester and South Wales
 
-#### Lincoln College, Lincoln (September 1997 to July 1999)
+#### Lincoln College, Lincolnshire (September 1997 to July 1999)
 
 - Advanced GNVQ
 - Information Technology
