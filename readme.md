@@ -32,7 +32,7 @@ I am looking to start my new career in an environment with a focus on software c
 - Europe's leading web development bootcamp
 - Fostered independent learning and problem-solving
 - Strong emphasis on pair programming and group projects
-- Taught best practice of key principles: OOP, MVC, TDD, BDD
+- Taught best practice of key principles: OOP, TDD, SOLID, MVC, Agile Methodologies & XP.
 - Software Craftsmanship
 - Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Node.js, Angular.js
 - Testing: RSpec, Capybara, Jasmine, Karma, Protractor
@@ -41,7 +41,8 @@ I am looking to start my new career in an environment with a focus on software c
 
 - BA (Hons) with QTS (First Class)
 - IT & Computing with QTS
-- FDSC in Computing (Computer Games Development)
+- FDSC in Computing in first year (Computer Games Development)
+- Awarded a scholarship in second year
 
 #### Pais Project (September 1999 to August 2001)
 
