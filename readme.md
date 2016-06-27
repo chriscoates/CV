@@ -30,10 +30,10 @@ I am looking to start my "Adventure of a lifetime" with a headlining company who
 #### Makers Academy (April 2016 to June 2016)
 
 - Europe's leading web development bootcamp
-- Fostered independent learning and problem-solving
+- Highly selective admission process
+- Independent learning and problem-solving
 - Strong emphasis on pair programming and group projects
 - Taught best practice of key principles: OOP, TDD, SOLID, MVC, Agile Methodologies & XP.
-- Software Craftsmanship
 - Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Node.js, Angular.js
 - Testing: RSpec, Capybara, Jasmine, Karma, Protractor
 
@@ -42,11 +42,12 @@ I am looking to start my "Adventure of a lifetime" with a headlining company who
 - BA (Honours) with QTS (First Class)
 - IT & Computing with QTS
 - FDSC in Computing in first year (Computer Games Development)
-- Awarded a scholarship in second year
+- Awarded a scholarship in second year for being in the highest performing 10%
 
 #### Pais Project (September 1999 to August 2001)
 
 - Youth work training, Manchester and South Wales
+- Running youth groups, assemblies and activities for young people
 
 #### Lincoln College, Lincolnshire (September 1997 to July 1999)
 
