@@ -2,7 +2,7 @@
 
 Formerly an IT & Computing teacher, I recently decided to make a break from the norm, expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my grit and determination has paid off. Being introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
 
-I am looking to start my "Adventure of a lifetime" with a headlining company with the same level of passion for their business as mud covered festival gathers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile practices would be (to quote another number one hit) my idea of paradise!
+I am looking to start my "Adventure of a lifetime" with a headlining company who have the same level of passion for their business as mud covered festival gathers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile practices would be (to quote another number one hit) my idea of paradise!
 
 ## Code Examples
 | Project                 | Description             | Technologies            |
