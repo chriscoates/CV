@@ -21,10 +21,10 @@ Approved but Apple for Beta testing |
 - Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
 - Curious nature with a passion to embrace and learn new technologies in order to deliver user-friendly solutions which provide great experiences for the end user.
 
-#### Strong Clear Communicator
+#### Clear Communicator
 
 - As a teacher, it was essential to articulate ideas and complex concepts clearly to students. I have carried this skill over into my coding life where feedback from my team and pair partners have noted my ability to talk through what I have done/doing and about to do.
-- Can articulate difficult concepts and bring people onboard with purpose and vision.
+- Can articulate difficult concepts and can work well individually and as part of a team in order bring people onboard with purpose and vision.
 
 ## Education
 
