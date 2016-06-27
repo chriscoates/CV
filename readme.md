@@ -1,6 +1,6 @@
 ## Chris Coates | coates.c@hotmail.com
 
-Formally a teacher, I. After six years educating you people in IT & Computing, I needed a new challenge. Having inspired others to code I felt it was time to further shape and build my skills at Makers Acadmey.
+Formally a teacher. After six years educating young people in IT & Computing, I needed a new challenge. Having inspired others to code I felt it was time to further shape and build my skills at Makers Academy web development bootcamp.
 
 I am looking to start my new career in an environment with a focus on software craftsmanship and where I can continue to accelerate new skills.
 
@@ -14,7 +14,7 @@ I am looking to start my new career in an environment with a focus on software c
 
 ## Skills
 
-#### This Skill
+#### Passionate Learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -22,7 +22,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Strong Clear Communicator
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -33,26 +33,42 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2016 - June 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Europe's leading web development bootcamp
+- Fostered independent learning and problem-solving
+- Strong emphasis on pair programming and group projects
+- Taught best practice of key principles: OOP, MVC, TDD, BDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Node.js, Angular.js
+- Testing: RSpec, Capybara, Jasmine, Karma, Protractor
 
-#### Your University / College (start_date to end_date)
+#### University of Brighton (September 2007 – June 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- IT & Computing with QTS
+- BA (Hons) with QTS (First Class)
+- FDSC in Computing (Computer Games Development)
 
-#### Any other qualifications
+#### Pais Project (September 1999 – August 2001)
+
+- Youth work training, Manchester and South Wales
+
+#### Lincoln College, Lincoln (September 1997 – July 1999)
+
+- Information Technology
+- GNVQ Advanced
+
+#### Queen Elizabeth’s Grammar School, Alford, Lincolnshire (September 1992 – June 1997)
+
+- Nine GCSE’s including English, Maths, Science and Design Technology
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**All Saints’ Catholic Academy, Mansfield** (September 2014 to December 2015)    
+*Head of IT & Computing*
+**Ratton School, Eastbourne** (May 2011 to August 2014)   
+*Head of IT, Business & Computing*
+**Ratton School, Eastbourne** (September 2010 to April 2011)   
+*Teacher of IT*
+**Bridgemere Community Centre, Eastbourne** (September 2002 to August 2007)   
+*Youth Worker*
