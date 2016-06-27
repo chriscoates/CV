@@ -5,7 +5,7 @@ Formally a teacher. After five years educating young people in IT & Computing, I
 I am looking to start my new career in an environment with a focus on software craftsmanship and where I can continue to accelerate these new and creative skills.
 
 ## Code Examples
-| Project        | Description         | Technologies        |
+| Project                 | Description             | Technologies            |
 |-------------------------|-------------------------|-------------------------|
 | [Phlash](https://github.com/chriscoates/phlash) | Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest. **Approved by Apple for Beta testing** |
 | [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack webhooks.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL               |
