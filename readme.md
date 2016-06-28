@@ -27,7 +27,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 ## Education
 
-#### Makers Academy (April 2016 to June 2016)
+#### Makers Academy (March 2016 to June 2016)
 
 - Europe's leading web development bootcamp
 - Highly selective admission process
