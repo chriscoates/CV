@@ -12,7 +12,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 | [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL, Cloudinary API, Slack webhooks, Getty API              |
 | [Instagram Clone](https://github.com/chriscoates/instagram-challenge) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
 
-## Skills
+## <a name="Skills">Skills</a>
 
 #### Passionate Learner
 
@@ -27,7 +27,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 - As a teacher, it is essential to articulate ideas and complex concepts to students. I have carried this skill over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
 - Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
 
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (March 2016 to June 2016)
 
@@ -60,7 +60,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 - Nine GCSE’s including English, Maths, Science and Design Technology
 
-## Experience
+## <a name="Experience">Experience</a>
 
 **All Saints’ Catholic Academy, Mansfield** (September 2014 to December 2015)    
 *Head of IT & Computing*
