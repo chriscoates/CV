@@ -1,4 +1,5 @@
-## Chris Coates | coates.c@hotmail.com
+## Chris Coates
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
 
 Formerly an IT & Computing teacher, I recently decided to expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my commitment to learning and determination to succeed have paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
 
@@ -72,3 +73,8 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 **Bridgemere Community Centre, Eastbourne** (September 2002 to August 2007)   
 *Youth Worker*
+
+#### Contact
+
+- LinkedIn - www.linkedin.com/in/chris-coates
+- Email - coates.c@hotmail.com
