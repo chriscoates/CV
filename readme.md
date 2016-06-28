@@ -16,7 +16,7 @@ I am looking to start my "Adventure of a lifetime" with a headlining company who
 #### Passionate Learner
 
 - Demonstrating a commitment to learning by spending 16 weeks fully immersed in software development I have pair programmed for 8 hours a day with 22 people from 4 continents. Weekends have been filled with individual projects and a vigorous code review on Monday morning.
-- Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created in a team of four in twelve days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
+- Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created in a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
 - Curious nature with a passion to embrace and learn new technologies in order to deliver user-friendly solutions which provide great experiences for the end user.
 
 #### Clear Communicator
