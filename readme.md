@@ -2,7 +2,7 @@
 
 Formerly an IT & Computing teacher, I recently decided to make a break from the norm, expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my grit and determination has paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
 
-I am looking to continue my *Adventure of a Lifetime* with a headlining company who have the same level of passion for their business as mud covered festival gathers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile practices would be (to quote another number one hit) my idea of *Paradise!*
+I am looking to continue my *Adventure of a Lifetime* with a headlining company who have the same level of passion for their business as mud-covered festival-goes watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile practices would be (to quote another number one hit) my idea of *Paradise!*
 
 ## Code Examples
 | Project                 | Description             | Technologies            |
@@ -17,7 +17,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 - Demonstrating a commitment to learning by spending 16 weeks fully immersed in software development I have pair programmed for 8 hours a day with 22 people from 4 continents. Weekends have been filled with individual projects and a vigorous code review on Monday morning.
 - Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created in a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
-- Curious nature with a passion to embrace and learn new technologies in order to deliver user-friendly solutions which provide great experiences for the end user.
+- Curious nature with a passion to embrace and learn new technologies solutions which provide great experiences for the end user.
 
 #### Clear Communicator
 
