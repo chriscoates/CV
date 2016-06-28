@@ -21,6 +21,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 #### Determined and Tenacious
 - Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created by a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
+- I thrive on succeeding as part of a team. Pair programming and group work have at times been intense, but I am confident in my ability to be part of a great team that sets out what it intends to do. 
 
 #### Clear Communicator
 
