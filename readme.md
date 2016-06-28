@@ -1,8 +1,8 @@
 ## Chris Coates | coates.c@hotmail.com
 
-Formerly an IT & Computing teacher, I recently decided to make a break from the norm, expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my determination has paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
+Formerly an IT & Computing teacher, I recently decided to expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my commitment to learning and determination to succeed have paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
 
-I am looking to continue my *Adventure of a Lifetime* with a headlining company who have the same level of passion for their business as mud-covered festival-goers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile practices would be (to quote another number one hit) my idea of *Paradise!*
+I am looking to continue my *Adventure of a Lifetime* with a headlining company who have the same level of passion for their business as mud-covered festival-goers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile ways of working would be (to quote another number one hit) my idea of *Paradise!*
 
 ## Code Examples
 | Project                 | Description             | Technologies            |
@@ -15,17 +15,16 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 #### Passionate Learner
 
-- Demonstrating a commitment to learning by spending 16 weeks fully immersed in software development I have pair programmed for 8 hours a day with 22 people from 4 continents. Weekends have been filled with individual projects and a vigorous code review on Monday morning.
-- Curious nature with a passion to embrace and learn new technologies solutions which provide great experiences for the end user.
+- Demonstrating a commitment to learning by spending 16 weeks fully immersed in software development. I have pair programmed for 8 hours a day with 22 people from 4 continents. Weekends have been dedicated to individual projects and a vigorous code reviews each Monday morning.
+- Curious nature with a passion to embrace and learn new technologies and solutions that provide great experiences for the end user.
 
 #### Determined and Tenacious
-- Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created in a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
+- Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created by a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
 
 #### Clear Communicator
 
-- As a teacher, it was essential to articulate ideas and complex concepts clearly to students. I have carried this skill over into my coding life where feedback from my team and pair partners have noted my ability to present explain and discuss ideas.
+- As a teacher, it is essential to articulate ideas and complex concepts to students. I have carried this skill over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
 - Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
-- Can articulate difficult concepts and can work well individually and as part of a team in order bring people onboard with purpose and vision.
 
 ## Education
 
