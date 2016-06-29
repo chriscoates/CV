@@ -1,7 +1,7 @@
 ## Chris Coates
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
 
-Formerly an IT & Computing teacher, I recently decided to expand my horizons and jump feet first into an intensive web development bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my commitment to learning and determination to succeed have paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
+Formerly an IT & Computing teacher, I recently decided to expand my horizons and jump feet first into an intensive web developer bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my commitment to learning and determination to succeed have paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
 
 I am looking to continue my *Adventure of a Lifetime* with a headlining company who have the same level of passion for their business as mud-covered festival-goers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile ways of working would be (to quote another number one hit) my idea of *Paradise!*
 
