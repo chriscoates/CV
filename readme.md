@@ -25,7 +25,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 #### Clear Communicator
 
-- As a teacher, it is essential to articulate ideas and complex concepts to students. I have carried this skill over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
+- As a teacher, it is essential to articulate ideas and complex concepts to students. I have carried these skills over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
 - Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
 
 ## <a name="Education">Education</a>
