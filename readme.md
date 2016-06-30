@@ -37,7 +37,7 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 - Independent learning and problem-solving
 - Strong emphasis on pair programming and group projects
 - Taught best practice of key principles: OOP, TDD, SOLID, MVC, Agile Methodologies & XP.
-- Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Node.js, Angular.js
+- Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Angular.js
 - Testing: RSpec, Capybara, Jasmine, Karma, Protractor
 
 #### University of Brighton (September 2007 to June 2010)
