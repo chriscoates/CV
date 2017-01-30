@@ -17,7 +17,7 @@ I am part of a mobile development team delivering an iOS and Android app for Ran
 ## Recent Projects
 | Project                 | Description             | Technologies            |
 |-------------------------|-------------------------|-------------------------|
-| ClinPhone Mobile (PAREXEL) | A mobile application for iOS and Android used to supply and dispense medication. | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform **Delivered to Apple & Google App Stores** |
+| [ClinPhone Mobile](https://play.google.com/store/apps/details?id=com.parexel.mobile.rtsm) (PAREXEL) | A mobile application for iOS and Android used to supply and dispense medication. | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform **Delivered to Apple & Google App Stores** |
 | [Phlash](https://github.com/chriscoates/phlash) | Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest. **Approved by Apple for Beta testing**   |
 | [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL, Cloudinary API, Slack webhooks, Getty API             |
 | [Instagram Clone](https://github.com/chriscoates/instagramclone) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
