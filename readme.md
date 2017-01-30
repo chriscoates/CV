@@ -1,32 +1,43 @@
 ## Chris Coates
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience)
 
-Formerly an IT & Computing teacher, I recently decided to expand my horizons and jump feet first into an intensive web developer bootcamp at [Makers Academy](http://www.makersacademy.com) to shake up my technical abilities and revolutionise my career pathway. I've been stretched and challenged over the last 16 weeks but my commitment to learning and determination to succeed have paid off. Having been introduced to new languages, frameworks and development methodologies, I now live, sleep and breathe code and am passionate about using my skills to produce amazing products.
+I am part of a mobile development team delivering an iOS and Android app for Randomization & Trial Supply Management for a clinical trials company. I am passionate about delivering a highly responsive and intuitive UI in order to bring an exceptional experience and functionality to the end user. I have experience in full stack development and have been responsible for the submission process to successfully publish our applications to the Apple App Store and Google Play Store. I live, sleep and breathe code and am passionate about using my skills to produce amazing applications.
 
-I am looking to continue my *Adventure of a Lifetime* with a headlining company who have the same level of passion for their business as mud-covered festival-goers watching Coldplay in a Somerset field. Finding a place within a company that shares the same drive for well crafted software that I do along with Agile ways of working would be (to quote another number one hit) my idea of *Paradise!*
+##Current Role
+- Moving the project code base and source control from SVN to Git/BitBucket
+- Setting up the CI build pipeline in TeamCity and automating this process
+- Maintaining and developing Adapter code using JavaScript
+- Experience of integrating crash and user analytics
+- Writing and maintaining C# code with Xamarin
+- Developing Apps for both iOS and Android devices
+- Using Charles Proxy to debug and monitor server/client interaction
+- Maintaining requirements and documentation
+- Experience in taking part in and leading daily stand-ups, sprint planning and retros
 
-## Code Examples
+## Recent Projects
 | Project                 | Description             | Technologies            |
 |-------------------------|-------------------------|-------------------------|
+| ClinPhone Mobile (PAREXEL) | A mobile application for iOS and Android used to supply and dispense medication. | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform **Delivered to Apple & Google App Stores** |
 | [Phlash](https://github.com/chriscoates/phlash) | Phlash is a photo-messaging iPhone app that encourages spontaneity. | Swift, Xcode, Parse, XCTest. **Approved by Apple for Beta testing**   |
 | [Memeories](https://github.com/chriscoates/memeories) | An app for creating Memes integrated with Slack.   | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL, Cloudinary API, Slack webhooks, Getty API             |
-| [Instagram Clone](https://github.com/chriscoates/instagram-challenge) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
+| [Instagram Clone](https://github.com/chriscoates/instagramclone) | A web clone of instagram. Allows users to post and comment on images. | Ruby on Rails, Omniauth, AWS, Capybara, Rspec, PostgreSQL |
 
 ## <a name="Skills">Skills</a>
 
 #### Passionate Learner
 
-- Demonstrating a commitment to learning by spending 16 weeks fully immersed in software development. I have pair programmed for 8 hours a day with 22 people from 4 continents. Weekends have been dedicated to individual projects and a vigorous code reviews each Monday morning.
-- Curious nature with a passion to embrace and learn new technologies and solutions that provide great experiences for the end user.
+- First software development job – applying skills and experience form Makers Academy. Fully immersed myself into quickly learning new languages, frameworks and technology. Pair programming to maximise potential. Regular attender of Nottingham Meetups to keep abreast of new tech and opportunity to strengthen my knowledge.
+- Curious nature with a passion to embrace and learn new technologies and solutions to provide great experiences for the end user.
 
 #### Determined and Tenacious
-- Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created by a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
-- I thrive on succeeding as part of a team. Pair programming and group work have at times been intense, but I am confident in my ability to be part of a great team that sets out what it intends to do.
+- Completing Makers Academy and securing first software development job within four weeks of graduation. Significant contributor to the mobile team. Personal work and learning at home to enrich and bring in new initiatives to the technology stack.
+-	Enthusiastic about dreaming big and a strong believer in a can do attitude. An interest in mobile technology influenced the decision to produce a final project in Swift. The result was Phlash, an iOS app created by a team of 4 in 12 days. Working with a strongly typed language was a great learning experience and provided a good contrast to Ruby and JavaScript.
+-	I thrive on succeeding as part of a team. Pair programming and group work have at times been intense, but I am confident in my ability to be part of a great team that sets out what it intends to do.
 
 #### Clear Communicator
 
-- As a teacher, it is essential to articulate ideas and complex concepts to students. I have carried these skills over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
-- Commitment to working in an Agile environment by participating in daily stand-ups and weekly retros.
+-	Articulate ideas and complex concepts to members of the team including our distributed team working in Minsk and Hyderabad. I have carried these skills over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
+-	Commitment to working in an Agile environment. Asked and accepted the opportunity to lead stand-ups, sprint planning and retros to cover for annual leave.
 
 ## <a name="Education">Education</a>
 
@@ -49,19 +60,19 @@ I am looking to continue my *Adventure of a Lifetime* with a headlining company 
 
 #### Pais Project (September 1999 to August 2001)
 
-- Youth work training, Manchester and South Wales
-- Running youth groups, assemblies and activities for young people
+- Youth Work training
 
 #### Lincoln College, Lincolnshire (September 1997 to July 1999)
 
-- Advanced GNVQ
-- Information Technology
+- Advanced GNVQ in Information Technology
 
 #### Queen Elizabeth’s Grammar School, Alford, Lincolnshire (September 1992 to June 1997)
 
 - Nine GCSE’s including English, Maths, Science and Design Technology
 
 ## <a name="Experience">Experience</a>
+
+**PAREXEL, Nottingham** (August 2016 to present)
 
 **All Saints’ Catholic Academy, Mansfield** (September 2014 to December 2015)    
 *Head of IT & Computing*
