@@ -14,6 +14,10 @@ I am part of a mobile development team delivering an iOS and Android app for Ran
 - Maintaining requirements and documentation
 - Experience in taking part in and leading daily stand-ups, sprint planning and retros
 
+##Previous Role
+- Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Angular.js
+- Testing: RSpec, Capybara, Jasmine, Karma, Protractor
+
 ## Recent Projects
 | Project                 | Description             | Technologies            |
 |-------------------------|-------------------------|-------------------------|
