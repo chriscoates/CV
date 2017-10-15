@@ -48,7 +48,7 @@ I am part of a mobile development team delivering an iOS and Android app for Ran
 #### Clear Communicator
 
 -	Articulate ideas and complex concepts to members of the team including our distributed team working in Minsk and Hyderabad. I have carried these skills over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
--	Commitment to working in an Agile environment. Asked and accepted the opportunity to lead stand-ups, sprint planning and retros to cover for annual leave.
+-	Commitment to working in an Agile environment. Scrum Master since May 2107. Asked to lead stand-ups, sprint planning and retros for the team in Nottingham and Minsk.
 
 ## <a name="Education">Education</a>
 
