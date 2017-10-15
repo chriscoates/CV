@@ -3,7 +3,7 @@
 
 I am part of a mobile development team delivering an iOS and Android app for Randomization & Trial Supply Management for a clinical trials company. I am passionate about delivering a highly responsive and intuitive UI in order to bring an exceptional experience and functionality to the end user. I have experience in full stack development and have been responsible for the submission process to successfully publish our applications to the Apple App Store and Google Play Store. I live, sleep and breathe code and am passionate about using my skills to produce amazing applications.
 
-##Current Role
+## Current Role
 - Moving the project code base and source control from SVN to Git/BitBucket
 - Setting up the CI build pipeline in TeamCity and automating this process
 - Maintaining and developing Adapter code using JavaScript
@@ -14,7 +14,7 @@ I am part of a mobile development team delivering an iOS and Android app for Ran
 - Maintaining requirements and documentation
 - Experience in taking part in and leading daily stand-ups, sprint planning and retros
 
-##Previous Role & Experience
+## Previous Role & Experience
 - Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Angular.js
 - Testing: RSpec, Capybara, Jasmine, Karma, Protractor
 
