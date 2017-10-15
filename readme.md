@@ -4,7 +4,11 @@
 I am part of a mobile development team delivering an iOS and Android app for Randomization & Trial Supply Management for a clinical trials company. I am passionate about delivering a highly responsive and intuitive UI in order to bring an exceptional experience and functionality to the end user. I have experience in full stack development and have been responsible for the submission process to successfully publish our applications to the Apple App Store and Google Play Store. I live, sleep and breathe code and am passionate about using my skills to produce amazing applications.
 
 ## Current Role
-- Moving the project code base and source control from SVN to Git/BitBucket
+- .NET Development using .NET 4.7/.NET Core, ASP.NET Core, EF Code First Migrations
+- Deployment to Azure via Octopus Deploy and directly from VS 2017
+- TDD using NUnit 3 and BDD
+- Responsible for setting up projects in VS 2017
+- Fluent use of source control practices Git/BitBucket
 - Setting up the CI build pipeline in TeamCity and automating this process
 - Maintaining and developing Adapter code using JavaScript
 - Experience of integrating crash and user analytics
