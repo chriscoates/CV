@@ -5,6 +5,8 @@ I am part of a mobile development team delivering an iOS and Android app for Ran
 
 ## Current Role
 - .NET Development using .NET 4.7/.NET Core, ASP.NET Core, EF Code First Migrations
+- Design patterns including IOC/DI, Repository Pattern, Interfaces
+- Angular 4 and NG-Bootstrap. Jasmine & Protractor testing
 - Deployment to Azure via Octopus Deploy and directly from VS 2017
 - TDD using NUnit 3 and BDD
 - Responsible for setting up projects in VS 2017
