@@ -12,7 +12,8 @@ I am part of a mobile development team delivering an iOS and Android app for Ran
 - Developing Apps for both iOS and Android devices
 - Using Charles Proxy to debug and monitor server/client interaction
 - Maintaining requirements and documentation
-- Experience in taking part in and leading daily stand-ups, sprint planning and retros
+- Scrum master - leading daily stand-ups, sprint planning and retros
+- Working with overseas development teams
 
 ## Previous Role & Experience
 - Languages and Frameworks: Ruby, Rails, Swift, Xcode, JavaScript, Angular.js
