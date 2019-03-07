@@ -17,7 +17,7 @@ I am a Senior Software Developer responsible for managing the development of a W
 | IFA Pro                   | Independent Financial Adviser platform for users to work from.                                    | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure    |
 | Randomisation Application | Application for Randomising Patients on a clinical trial. Full platform built from the ground up. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Azure Active Directory, Octopus Deploy, Azure |
 | Health Alert System       | An Android App and Web Reporting App to help fight Malaria in Sub Saharan Africa.                 | Visual Studio, Visual Studio Code, Angular, Xamarin, NUnit, TDD & BDD, Octopus Deploy, Azure |
-| ClinPhone Mobile          | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform **Delivered to Apple & Google App Stores** |
+| ClinPhone Mobile          | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform, **Delivered to Apple & Google App Stores** |
 | Phlash                    | Phlash is a photo-messaging iPhone app that encourages spontaneity.                               | Swift, Xcode, Parse, XCTest. Approved by Apple for Beta testing |
 | Memeories                 | An app for creating Memes integrated with Slack.                                                  | Ruby on Rails, Javascript, jQuery, Rspec, Capybara, PostgreSQL, Cloudinary API, Slack webhooks, Getty API |
 
