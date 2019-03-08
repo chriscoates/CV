@@ -35,7 +35,7 @@ I am a Senior Software Developer responsible for managing the development of a W
 
 #### Clear Communicator
 
-- Articulate ideas and complex concepts to members of the team including our distributed team working in Minsk and Hyderabad. I have carried these skills over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
+- Articulate ideas and complex concepts to members of the team including team members working in Minsk and Hyderabad. I have carried these skills over into my coding life where feedback from my team and pair partners have noted my ability to present, explain and discuss ideas clearly.
 - Commitment to working in an Agile environment. Have scrum mastered two projects where I have lead stand-ups, sprint planning and run retros.
 
 ## <a name="Education">Education</a>
