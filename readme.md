@@ -45,12 +45,12 @@ I am a Senior Software Engineer responsible for managing the development of a We
 
 #### Clear Communicator
 
-- Articulate ideas and complex concepts to members of the team including team members working in Minsk and Hyderabad. Feedback from team and pair partners have noted my ability to present, explain and discuss ideas and strategies clearly.
+- Articulate ideas and complex concepts to members of the team including our distributed team working in Minsk and Hyderabad. Feedback from team and pair partners have noted my ability to present, explain and discuss ideas and strategies clearly.
 - Commitment to working in an Agile environment. Have scrum mastered two projects where I have lead stand-ups, sprint planning and run retros.
 
 #### Determined and Tenacious
 
-- I thrive on succeeding as part of a team. Personal work and learning at home in my own time to enrich and bring in new initiatives to the technology stack.
+- I thrive on succeeding as part of a team. I work on personal projects and spend time researching new technologies to enrich the stack.
 - Strong believer in a can do attitude. Passionate about SOLID principles and producing clean code.
 
 ## <a name="Education">Education</a>
