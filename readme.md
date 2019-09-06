@@ -14,13 +14,13 @@ I am a Senior Software Engineer responsible for managing the development of a We
 ## Recent Projects
 | Project                   | Description                                                                                       | Technologies                                                                  |
 |-------------------------  |-------------------------                                                                          |-------------------------                                                      |
-| IFA Pro                   | Independent Financial Adviser platform for users to work from.                                    | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure    |
+| IFA Pro                   | WebApp for financial advisers, admin and company owners to process clients’ financial portfolios. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure    |
 | Randomisation Application | Application for Randomising Patients on a clinical trial. Full platform built from the ground up. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Azure Active Directory, Octopus Deploy, Azure |
 | Health Alert System       | An Android App and Web Reporting App to help fight Malaria in Sub Saharan Africa.                 | Visual Studio, Visual Studio Code, Angular, Xamarin, NUnit, TDD & BDD, Octopus Deploy, Azure |
 | ClinPhone Mobile          | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform, **Delivered to Apple & Google App Stores** |
-| Phlash                    | Phlash is a photo-messaging iPhone app that encourages spontaneity.                               | Swift, Xcode, Parse, XCTest. Approved by Apple for Beta testing |
+| Phlash                    | A photo-messaging iPhone app that encourages spontaneity.                                         | Swift, Xcode, Parse, XCTest. Approved by Apple for Beta testing |
 
-## <a name="Languages">Languages & Frameworks</a>
+## <a name="Languages">Languages & Tools</a>
 
 - ASP.NET full & ASP.NET Core, EF & EF Core, SQL Server
 - C#, Javascript, Ruby, Swift
@@ -40,7 +40,7 @@ I am a Senior Software Engineer responsible for managing the development of a We
 
 #### Passionate Learner
 
-- Fully immerse myself into quickly learning new languages, frameworks and technology. Pair programming to maximise potential. Regular attender of Nottingham Meetups to keep abreast of new tech and opportunity to - strengthen my knowledge.
+- Fully immerse myself into quickly learning new languages, frameworks and technology. Pair programming to maximise potential. Regular attender of Nottingham Meetups to keep abreast of new tech and opportunity to strengthen my knowledge.
 - Curious nature with a passion to embrace and learn new technologies and solutions to provide great experiences for the end user.
 
 #### Clear Communicator
@@ -50,8 +50,8 @@ I am a Senior Software Engineer responsible for managing the development of a We
 
 #### Determined and Tenacious
 
--I thrive on succeeding as part of a team. Personal work and learning at home in my own time to enrich and bring in new initiatives to the technology stack.
--Strong believer in a can do attitude. Passionate about SOLID principles and producing clean code.
+- I thrive on succeeding as part of a team. Personal work and learning at home in my own time to enrich and bring in new initiatives to the technology stack.
+- Strong believer in a can do attitude. Passionate about SOLID principles and producing clean code.
 
 ## <a name="Education">Education</a>
 
