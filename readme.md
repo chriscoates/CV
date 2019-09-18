@@ -85,10 +85,10 @@ I am a Senior Software Engineer responsible for managing the development of a We
 
 ## <a name="Interests">Interests</a>
 - Spending time with family & friends
-- Drinking Coffee
-- Cooking & Eating good food
+- Drinking coffee
+- Cooking & eating good food
 - Brewing my own beer (I do a good IPA )
-- Playing & Watching Sport
+- Playing & watching sport
 - Gardening
 - Listening to music & going to gigs
 
