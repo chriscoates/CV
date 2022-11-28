@@ -1,33 +1,36 @@
 ## Chris Coates
 [Languages](#Languages) | [Workflow](#Workflow) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
-I am a Senior Software Engineer responsible for managing the development of a Web Application Platform for Financial Advisers to work from. I am passionate about delivering a highly responsive and intuitive UI to bring an exceptional experience and functionality to the end user. I am experienced in implementing software design patterns to solve commonly occurring problems and using SOLID principles to produce enterprise level software. I live, sleep and breathe code and am passionate about using my skills to create amazing applications.
+I am a Senior Software Engineer working on customer facing and internal web apps for a weight loss organisation. I am passionate about delivering a highly responsive and intuitive UI to bring an exceptional experience and functionality to the end user. I am experienced in implementing software design patterns to solve commonly occurring problems and using SOLID principles to produce enterprise level software. I live, sleep and breathe code and am passionate about using my skills to create amazing applications.
 
 ## Current Role
-- Writing code for full stack ASP.NET MVC development
-- Writing Unit Tests and Automated UI Tests
+- Writing API's that are consumed by our Public Website, Member Web App and Mobile App
+- Writing Unit Tests
+- Carrying out code reviews through PR's
+- Responding to production issues to keep a large platform running
 - Using source control and GitFlow branching strategies
-- Creating the CI/CD build pipeline and automating the deployment process to Azure
 - Running stand-ups, sprint planning and retros
 - TDD, BDD, CI/CD, SOLID, Agile, XP Values
 
 ## Recent Projects
 | Project                   | Description                                                                                       | Technologies                                                                  |
 |-------------------------  |-------------------------                                                                          |-------------------------                                                      |
-| IFA Pro                   | WebApp for financial advisers, admin and company owners to process clients’ financial portfolios. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure    |
-| Randomisation Application | Application for Randomising Patients on a clinical trial. Full platform built from the ground up. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Azure Active Directory, Octopus Deploy, Azure |
-| Health Alert System       | An Android App and Web Reporting App to help fight Malaria in Sub Saharan Africa.                 | Visual Studio, Visual Studio Code, Angular, Xamarin, NUnit, TDD & BDD, Octopus Deploy, Azure |
-| ClinPhone Mobile          | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform, **Delivered to Apple & Google App Stores** |
-| Phlash                    | A photo-messaging iPhone app that encourages spontaneity.                                         | Swift, Xcode, Parse, XCTest. Approved by Apple for Beta testing |
+| Slimming World Web Application    | Feature rich Web App for people on a journey to achieve weight loss.                              | Visual Studio, Visual Code, ASP.NET 6.0, React, MongoDB, Elastic, SQL Server, Micro Services, Octopus Deploy, Azure    |
+| IFA Pro                           | WebApp for financial advisers, admin and company owners to process clients’ financial portfolios. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure    |
+| Randomisation Application         | Application for Randomising Patients on a clinical trial. Full platform built from the ground up. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Azure Active Directory, Octopus Deploy, Azure |
+| Health Alert System               | An Android App and Web Reporting App to help fight Malaria in Sub Saharan Africa.                 | Visual Studio, Visual Studio Code, Angular, Xamarin, NUnit, TDD & BDD, Octopus Deploy, Azure |
+| ClinPhone Mobile                  | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform, **Delivered to Apple & Google App Stores** |
 
 ## <a name="Languages">Languages & Tools</a>
 
-- ASP.NET full & ASP.NET Core, EF & EF Core, SQL Server
+- ASP.NET full & ASP.NET Core, React, Rails, XCode, Node, Angular, EF & EF Core, MongoDB, SQL Server
+- Docker, Kubernetes
 - C#, Javascript, Ruby, Swift
 - Azure, Azure Active Directory, Application Insights, Blue/Green Deployments (Using Slots)
 - Visual Studio, Visual Studio Code, Xcode, Eclipse
-- TeamCity, Jenkins, Octopus Deploy, Proget
-- NUnit, XUnit, SpecFlow, XCTest, RSpec
+- TeamCity, Jenkins, Azure DevOps, Octopus Deploy, Proget
+- NUnit, XUnit, SpecFlow, XCTest, RSpec, Capybara, Jasmine, Karma, Protractor
+- Releasing to Apple & Google App Stores
 
 ## <a name="Workflow">Workflow</a>
 
@@ -46,7 +49,7 @@ I am a Senior Software Engineer responsible for managing the development of a We
 #### Clear Communicator
 
 - Articulate ideas and complex concepts to members of the team including our distributed team working in Minsk and Hyderabad. Feedback from team and pair partners have noted my ability to present, explain and discuss ideas and strategies clearly.
-- Commitment to working in an Agile environment. Have scrum mastered two projects where I have lead stand-ups, sprint planning and run retros.
+- Commitment to working in an Agile environment. Have scrum mastered projects where I have led stand-ups, sprint planning and retros.
 
 #### Determined and Tenacious
 
