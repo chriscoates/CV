@@ -15,11 +15,11 @@ I am a Senior Software Engineer working on customer facing and internal web apps
 ## Recent Projects
 | Project                   | Description                                                                                       | Technologies                                                                  |
 |-------------------------  |-------------------------                                                                          |-------------------------                                                      |
-| Slimming World Web Application    | Feature-rich Web App for people on a journey to achieve weight loss.                              | Visual Studio, Visual Studio Code, ASP.NET 6.0, React, MongoDB, Elastic, SQL Server, Micro Services, Octopus Deploy, Azure    |
-| IFA Pro                           | WebApp for financial advisers, admin and company owners to process clients’ financial portfolios. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure    |
-| Randomisation Application         | Application for Randomising Patients on a clinical trial. Full platform built from the ground up. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Azure Active Directory, Octopus Deploy, Azure |
-| Health Alert System               | An Android App and Web Reporting App to help fight Malaria in Sub Saharan Africa.                 | Visual Studio, Visual Studio Code, Angular, Xamarin, NUnit, TDD & BDD, Octopus Deploy, Azure |
-| ClinPhone Mobile                  | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform, **Delivered to Apple & Google App Stores** |
+| Slimming World Web Application    | Feature-rich Web App for people on a journey to achieve weight loss.                              | Visual Studio, Visual Studio Code, ASP.NET 6.0, React, MongoDB, Elastic, SQL Server, Micro Services, Octopus Deploy, Azure.|
+| IFA Pro                           | WebApp for financial advisers, admin and company owners to process clients’ financial portfolios. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Octopus Deploy, Azure.|
+| Randomisation Application         | Application for Randomising Patients on a clinical trial. Full platform built from the ground up. | Visual Studio, ASP.NET Core, Razor, MVC, SQL Server, Azure Active Directory, Octopus Deploy, Azure.|
+| Health Alert System               | An Android App and Web Reporting App to help fight Malaria in Sub Saharan Africa.                 | Visual Studio, Visual Studio Code, Angular, Xamarin, NUnit, TDD & BDD, Octopus Deploy, Azure.|
+| ClinPhone Mobile                  | A mobile application for iOS and Android used to supply and dispense medication.                  | Visual Studio, Xamarin Studio, Eclipse, NUnit, SQL Server, IBM Mobile first platform, **Delivered to Apple & Google App Stores**.|
 
 ## <a name="Languages">Languages & Tools</a>
 
@@ -54,7 +54,7 @@ I am a Senior Software Engineer working on customer facing and internal web apps
 #### Determined and Tenacious
 
 - I thrive on succeeding as part of a team. I work on personal projects and spend time researching new technologies to enrich the stack.
-- Strong believer in a can do attitude. Passionate about SOLID principles and producing clean code.
+- Strong believer in a can-do attitude. Passionate about SOLID principles and producing clean code.
 
 ## <a name="Education">Education</a>
 
