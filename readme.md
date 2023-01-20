@@ -74,7 +74,10 @@ I am a Senior Software Engineer working on customer facing and internal web apps
 
 ## <a name="Experience">Experience</a>
 
-**Lakeside Financial Soutions, Barnsley** (March 2019 to Present)
+**Slimming World, Alfreton** (October 2019 to Present)
+*Senior Software Engineer*
+
+**Lakeside Financial Soutions, Barnsley** (March 2019 to October 2019)
 *Manager, Software Engineering*
 
 **PAREXEL, Nottingham** (November 2018 to February 2019)
@@ -82,9 +85,6 @@ I am a Senior Software Engineer working on customer facing and internal web apps
 
 **PAREXEL, Nottingham** (August 2016 to October 2018)
 *Software Engineer*
-
-**Ratton School & All Saints’ Catholic Academy** (September 2010 to December 2015)    
-*Head of IT, Business & Computing*
 
 ## <a name="Interests">Interests</a>
 - Spending time with family & friends
